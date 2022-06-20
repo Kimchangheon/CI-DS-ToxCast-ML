@@ -1,0 +1,340 @@
+﻿Tox mechanism,AEID,Assay Name,Intended target,Intended target family,Intended target subfamily,Number of chemicals,Active chemicals,Active chemicals (%),Inactive chemicals,Model,Assay format,Time,Function,Detection,Positive Chemical
+ ,806,TOX21_AhR_LUC_Agonist,AHR,dna binding,basic helix-loop-helix protein,7932,809,10.2,7123,HepG2,microplate: 1536-well plate,24,reporter gene,Luminescence,Omeprazole
+AHR-cyp,767,TOX21_Aromatase_Inhibition,CYP19A1,cyp,steroidogenesis-related,7197,1169,16.2,6028,MCF-7,microplate: 1536-well plate,24,reporter gene,Luminescence,Letrozole
+AHR-cyp,1131,TOX21_VDR_BLA_agonist_ratio,CYP24A1,cyp,xenobiotic metabolism,7197,70,1.0,7127,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,Calcitriol
+AHR-cyp,1132,TOX21_VDR_BLA_antagonist_ratio,CYP24A1,cyp,xenobiotic metabolism,7197,314,4.4,6883,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,NA
+AHR-cyp,63,ATG_Ahr_CIS_up,AHR,dna binding,basic helix-loop-helix protein,3420,448,13.1,2972,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,6-formylindolo carbazole
+AHR-cyp,333,NVS_ADME_hCYP2C19,CYP2C19,cyp,xenobiotic metabolism,381,305,80.1,76,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Tranylcypromine
+AHR-cyp,319,NVS_ADME_hCYP19A1,CYP19A1,cyp,steroidogenesis-related,239,71,29.7,168,cell-free,microplate: 384-well plate,0.5,enzymatic activity,Fluorescence,Ketoconazole
+AHR-cyp,337,NVS_ADME_hCYP2C9,CYP2C9,cyp,xenobiotic metabolism,225,187,83.1,38,cell-free,microplate: 96-well plate,0.75,enzymatic activity,Fluorescence,Sulfaphenazole
+AHR-cyp,321,NVS_ADME_hCYP1A1,CYP1A1,cyp,xenobiotic metabolism,175,70,40.0,105,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Ketoconazole;Ketanserin
+AHR-cyp,323,NVS_ADME_hCYP1A2,CYP1A2,cyp,xenobiotic metabolism,172,133,77.3,39,cell-free,microplate: 96-well plate,0.5,enzymatic activity,Fluorescence,Furafylline
+AHR-cyp,345,NVS_ADME_hCYP3A4,CYP3A4,cyp,xenobiotic metabolism,161,86,53.4,75,cell-free,microplate: 96-well plate,0.33,enzymatic activity,Fluorescence,Ketoconazole
+AHR-cyp,329,NVS_ADME_hCYP2B6,CYP2B6,cyp,xenobiotic metabolism,138,103,74.6,35,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Clotrimazole
+AHR-cyp,339,NVS_ADME_hCYP2D6,CYP2D6,cyp,xenobiotic metabolism,117,80,68.4,37,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,quinidine
+AHR-cyp,327,NVS_ADME_hCYP2A6,CYP2A6,cyp,xenobiotic metabolism,112,27,24.1,85,cell-free,microplate: 96-well plate,0.5,enzymatic activity,Fluorescence,Tranylcypromine
+AHR-cyp,349,NVS_ADME_hCYP4F12,CYP4F12,cyp,xenobiotic metabolism,77,28,36.4,49,cell-free,microplate: 384-well plate,0.5,enzymatic activity,Fluorescence,Ketoconazole
+AHR-cyp,363,NVS_ADME_rCYP2C12,Cyp2c12,cyp,xenobiotic metabolism,55,32,58.2,23,cell-free,microplate: 96-well plate,0.5,enzymatic activity,Fluorescence,Tranylcypromine
+AR,761,TOX21_AR_BLA_Agonist_ratio,AR,nuclear receptor,steroidal,7932,809,10.2,7123,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,R1881
+AR,762,TOX21_AR_BLA_Antagonist_ratio,AR,nuclear receptor,steroidal,7932,809,10.2,7123,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,Cyproterone acetate
+AR,764,TOX21_AR_LUC_MDAKB2_Agonist,AR,nuclear receptor,steroidal,7932,809,10.2,7123,MDA-kb2,microplate: 1536-well plate,24,reporter gene,Luminescence,R1881
+AR,765,TOX21_AR_LUC_MDAKB2_Antagonist,AR,nuclear receptor,steroidal,7932,809,10.2,7123,MDA-kb2,microplate: 1536-well plate,24,reporter gene,Luminescence,Nilutamide
+AR,115,ATG_AR_TRANS_up,AR,nuclear receptor,steroidal,3420,41,1.2,3379,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+AR,739,OT_AR_ARELUC_AG_1440,AR,nuclear receptor,steroidal,1778,146,8.2,1632,CHO-K1,microplate: 384-well plate,24,reporter gene,Luminescence,6-alpha-Fluorotestosterone
+AR,740,OT_AR_ARSRC1_0480,AR,nuclear receptor,steroidal,1746,120,6.9,1626,HEK293T,microplate: 384-well plate,8,binding,Fluorescence,"4,5-alpha-Dihydrotestosterone"
+AR,741,OT_AR_ARSRC1_0960,AR,nuclear receptor,steroidal,1739,210,12.1,1529,HEK293T,microplate: 384-well plate,16,binding,Fluorescence,"4,5-alpha-Dihydrotestosterone"
+AR,726,NVS_NR_rAR,Ar,nuclear receptor,steroidal,269,130,48.3,139,tissue-based cell-free,microplate: 96-well plate,18,binding,Radiometry,Methyltrienolone
+AR,711,NVS_NR_hAR,AR,nuclear receptor,steroidal,229,113,49.3,116,cell-free,microplate: 96-well plate,20,binding,Radiometry,Methyltrienolone
+Cancer,1116,TOX21_p53_BLA_p1_ratio,TP53,dna binding,tumor suppressor,7932,811,10.2,7121,HCT116,microplate: 1536-well plate,24,reporter gene,Fluorescence,Mitomycin C;Nutlin3
+Cancer,1317,TOX21_p53_BLA_p2_ratio,TP53,dna binding,tumor suppressor,7932,1027,12.9,6905,HCT116,microplate: 1536-well plate,24,reporter gene,Fluorescence,Mitomycin C;Nutlin3
+Cancer,1321,TOX21_p53_BLA_p3_ratio,TP53,dna binding,tumor suppressor,7932,955,12.0,6977,HCT116,microplate: 1536-well plate,24,reporter gene,Fluorescence,Mitomycin C;Nutlin3
+Cancer,1325,TOX21_p53_BLA_p4_ratio,TP53,dna binding,tumor suppressor,7932,943,11.9,6989,HCT116,microplate: 1536-well plate,24,reporter gene,Fluorescence,Mitomycin C;Nutlin3
+Cancer,1329,TOX21_p53_BLA_p5_ratio,TP53,dna binding,tumor suppressor,7932,880,11.1,7052,HCT116,microplate: 1536-well plate,24,reporter gene,Fluorescence,Mitomycin C;Nutlin3
+Cancer,1113,TOX21_HSE_BLA_agonist_ratio,HSF1,dna binding,heat shock protein,7197,610,8.5,6587,HeLa,microplate: 1536-well plate,24,reporter gene,Fluorescence,17-AAG
+Cancer,781,TOX21_ELG1_LUC_Agonist,ATAD5,hydrolase,atpase,5280,133,2.5,5147,HEK293T,microplate: 1536-well plate,24,reporter gene,Luminescence,5-Fluorouridine
+Cancer,99,ATG_p53_CIS_up,TP53,dna binding,tumor suppressor,3420,89,2.6,3331,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Cancer,73,ATG_E2F_CIS_up,E2F1,dna binding,E2F transcription factor,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Cancer,84,ATG_HSE_CIS_up,HSF1,dna binding,heat shock protein,3420,425,12.4,2995,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Cancer,92,ATG_Myb_CIS_up,MYB,dna binding,MYB proteins,3420,22,0.6,3398,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Cancer,93,ATG_Myc_CIS_up,MYC,dna binding,basic helix-loop-helix leucine zipper,3420,22,0.6,3398,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Cancer,203,BSK_BE3C_uPA_down,PLAU,protease,serine protease,1444,240,16.6,1204,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Cancer,275,BSK_KF3CT_uPA_down,PLAU,protease,serine protease,1444,267,18.5,1177,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Cancer,40,APR_HepG2_p53Act_24h_up,TP53,dna binding,tumor suppressor,1038,196,18.9,842,HepG2,microplate: 384-well plate,24,signaling,Fluorescence,Camptothecin;Anisomycin
+Cancer,60,APR_HepG2_p53Act_72h_up,TP53,dna binding,tumor suppressor,1038,210,20.2,828,HepG2,microplate: 384-well plate,72,signaling,Fluorescence,Camptothecin;Anisomycin
+Cancer,421,NVS_ENZ_hCK1D,CSNK1D,kinase,serine/threonine kinase,130,31,23.8,99,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,5-iodotubericidin
+Cancer,561,NVS_ENZ_hSIRT1,SIRT1,hydrolase,protein deacetylase,114,26,22.8,88,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Suramin;Ammonium Molybdate (NH4MoO4)
+Cancer,513,NVS_ENZ_hPI3Ka,PIK3CA,kinase,phosphoinositol kinase,112,20,17.9,92,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,PI-103
+Cancer,563,NVS_ENZ_hSIRT2,SIRT2,hydrolase,protein deacetylase,98,29,29.6,69,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Suramin
+Cancer,393,NVS_ENZ_hAurA,AURKA,kinase,serine/threonine kinase,95,23,24.2,72,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Staurosporine
+Development,77,ATG_FoxA2_CIS_up,FOXA2,dna binding,forkhead box protein,3420,73,2.1,3347,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,78,ATG_FoxO_CIS_up,FOXO1|FOXO3,dna binding,forkhead box protein,3420,53,1.5,3367,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,79,ATG_GATA_CIS_up,GATA1,dna binding,GATA proteins,3420,47,1.4,3373,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,80,ATG_GLI_CIS_up,GLI1,dna binding,zinc finger,3420,192,5.6,3228,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Development,66,ATG_BRE_CIS_up,SMAD1,dna binding,Smad protein,3420,391,11.4,3029,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,105,ATG_Sox_CIS_up,SOX1,dna binding,HMG box protein,3420,225,6.6,3195,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Development,65,ATG_AP_2_CIS_up,TFAP2A|TFAP2B|TFAP2D,dna binding,basic helix-turn-helix leucine zipper,3420,44,1.3,3376,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,123,ATG_HNF4a_TRANS_up,HNF4A,nuclear receptor,orphan,3420,50,1.5,3370,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,136,ATG_RARa_TRANS_up,RARA,nuclear receptor,non-steroidal,3420,79,2.3,3341,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,71,ATG_DR5_CIS_up,RARA|RARB|RARG,nuclear receptor,non-steroidal,3420,329,9.6,3091,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,9-cis-Retinoic Acid
+Development,137,ATG_RARb_TRANS_up,RARB,nuclear receptor,non-steroidal,3420,26,0.8,3394,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,138,ATG_RARg_TRANS_up,RARG,nuclear receptor,non-steroidal,3420,59,1.7,3361,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,144,ATG_VDR_TRANS_up,VDR,nuclear receptor,non-steroidal,3420,112,3.3,3308,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Development,113,ATG_VDRE_CIS_up,VDR,nuclear receptor,non-steroidal,3420,937,27.4,2483,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Development,235,BSK_hDFCGF_CollagenIII_down,COL3A1,cell adhesion molecules,collagen,1444,439,30.4,1005,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,183,BSK_4H_VEGFRII_down,KDR,kinase,receptor tyrosine kinase,1444,216,15.0,1228,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,193,BSK_BE3C_MMP1_down,MMP1,protease,matrix metalloproteinase,1444,192,13.3,1252,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,194,BSK_BE3C_MMP1_up,MMP1,protease,matrix metalloproteinase,1444,132,9.1,1312,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,247,BSK_hDFCGF_MMP1_down,MMP1,protease,matrix metalloproteinase,1444,267,18.5,1177,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,248,BSK_hDFCGF_MMP1_up,MMP1,protease,matrix metalloproteinase,1444,64,4.4,1380,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,267,BSK_KF3CT_MMP9_down,MMP9,protease,matrix metalloproteinase,1444,391,27.1,1053,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,255,BSK_hDFCGF_TIMP1_down,TIMP1,protease inhibitor,metalloproteinase inhibitor,1444,268,18.6,1176,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,273,BSK_KF3CT_TIMP2_down,TIMP2,protease inhibitor,metalloproteinase inhibitor,1444,325,22.5,1119,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Development,722,NVS_NR_hRAR_Antagonist,RARA,nuclear receptor,non-steroidal,261,30,11.5,231,cell-free,microplate: 384-well plate,2,binding,Fluorescence,RO415253
+Development,723,NVS_NR_hRARa_Agonist,RARA,nuclear receptor,non-steroidal,261,30,11.5,231,cell-free,microplate: 384-well plate,2,binding,Fluorescence,TTNPB
+Development,443,NVS_ENZ_hFGFR1,FGFR1,kinase,receptor tyrosine kinase,166,30,18.1,136,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,K252a
+Development,577,NVS_ENZ_hVEGFR2,KDR,kinase,receptor tyrosine kinase,154,24,15.6,130,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Staurosporine
+Development,493,NVS_ENZ_hMMP3,MMP3,protease,matrix metalloproteinase,103,33,32.0,70,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Galardin (GM6001)
+Development,487,NVS_ENZ_hMMP1,MMP1,protease,matrix metalloproteinase,99,44,44.4,55,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Galardin (GM6001)
+Development,497,NVS_ENZ_hMMP9,MMP9,protease,matrix metalloproteinase,97,39,40.2,58,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Galardin (GM6001)
+Development,495,NVS_ENZ_hMMP7,MMP7,protease,matrix metalloproteinase,94,22,23.4,72,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Galardin (GM6001)
+Development,686,NVS_IC_hKhERGCh,KCNH2,ion channel,potassium channel,91,40,44.0,51,cell-free,microplate: 48-well plate,0.75,binding,Radiometry,Terfenadine
+Development,491,NVS_ENZ_hMMP2,MMP2,protease,matrix metalloproteinase,90,35,38.9,55,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Galardin (GM6001)
+Development,489,NVS_ENZ_hMMP13,MMP13,protease,matrix metalloproteinase,82,45,54.9,37,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,Tyr-Hydroxamic acid
+ER,785,TOX21_ERa_BLA_Agonist_ratio,ESR1,nuclear receptor,steroidal,7932,468,5.9,7464,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,17b-estradiol
+ER,786,TOX21_ERa_BLA_Antagonist_ratio,ESR1,nuclear receptor,steroidal,7932,1027,12.9,6905,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,4-hydroxytamoxifen
+ER,788,TOX21_ERa_LUC_BG1_Agonist,ESR1,nuclear receptor,steroidal,7932,1257,15.8,6675,BG1,microplate: 1536-well plate,48,reporter gene,Luminescence,17b-estradiol
+ER,789,TOX21_ERa_LUC_BG1_Antagonist,ESR1,nuclear receptor,steroidal,7932,712,9.0,7220,BG1,microplate: 1536-well plate,48,reporter gene,Luminescence,4-hydroxytamoxifen
+ER,117,ATG_ERa_TRANS_up,ESR1,nuclear receptor,steroidal,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,17b-estradiol
+ER,75,ATG_ERE_CIS_up,ESR1,nuclear receptor,steroidal,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,17b-estradiol
+ER,119,ATG_ERRg_TRANS_up,ESRRG,nuclear receptor,steroidal,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+ER,746,OT_ER_ERbERb_0480,ESR2,nuclear receptor,steroidal,1750,210,12.0,1540,HEK293T,microplate: 384-well plate,8,binding,Fluorescence,17b-Estradiol
+ER,742,OT_ER_ERaERa_0480,ESR1,nuclear receptor,steroidal,1739,210,12.1,1529,HEK293T,microplate: 384-well plate,8,binding,Fluorescence,17b-Estradiol
+ER,743,OT_ER_ERaERa_1440,ESR1,nuclear receptor,steroidal,1739,210,12.1,1529,HEK293T,microplate: 384-well plate,24,binding,Fluorescence,17b-Estradiol
+ER,744,OT_ER_ERaERb_0480,ESR1|ESR2,nuclear receptor,steroidal,1739,210,12.1,1529,HEK293T,microplate: 384-well plate,8,binding,Fluorescence,17b-Estradiol
+ER,2,ACEA_T47D_80hr_Positive,ESR1,nuclear receptor,steroidal,1737,299,17.2,1438,T47D,microplate: 96-well plate,80,signaling,Label Free Technology,17b-estradiol
+ER,745,OT_ER_ERaERb_1440,ESR1|ESR2,nuclear receptor,steroidal,1674,199,11.9,1475,HEK293T,microplate: 384-well plate,24,binding,Fluorescence,17b-Estradiol
+ER,750,OT_ERa_EREGFP_0120,ESR1,nuclear receptor,steroidal,1672,178,10.6,1494,HeLa,microplate: 384-well plate,2,reporter gene,Microscopy,(Z)-4-Hydroxytamoxifen
+ER,751,OT_ERa_EREGFP_0480,ESR1,nuclear receptor,steroidal,1672,178,10.6,1494,HeLa,microplate: 384-well plate,8,reporter gene,Microscopy,(Z)-4-Hydroxytamoxifen
+ER,747,OT_ER_ERbERb_1440,ESR2,nuclear receptor,steroidal,1672,178,10.6,1494,HEK293T,microplate: 384-well plate,24,binding,Fluorescence,17b-Estradiol
+ER,714,NVS_NR_hER,ESR1,nuclear receptor,steroidal,1132,232,20.5,900,cell-free,microplate: 96-well plate,18,binding,Radiometry,17b-estradiol
+ER,725,NVS_NR_mERa,Esr1,nuclear receptor,steroidal,930,188,20.2,742,cell-free,microplate: 96-well plate,18,binding,Radiometry,17b-estradiol
+ER stress,1342,TOX21_ESRE_BLA_ratio,ATF6,dna binding,basic leucine zipper,7197,331,4.6,6866,HeLa,microplate: 1536-well plate,24,reporter gene,Fluorescence,17-AAG
+ER stress,69,ATG_CRE_CIS_up,CREB3,dna binding,basic leucine zipper,3420,362,10.6,3058,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,Forskolin
+ER stress,114,ATG_Xbp1_CIS_up,XBP1,dna binding,basic leucine zipper,3420,463,13.5,2957,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,1119,TOX21_FXR_BLA_agonist_ratio,NR1H4,nuclear receptor,non-steroidal,7197,206,2.9,6991,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,Chenodeoxycholic acid
+Immune system,1120,TOX21_FXR_BLA_antagonist_ratio,NR1H4,nuclear receptor,non-steroidal,7197,959,13.3,6238,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,Guggulsterone
+Immune system,76,ATG_Ets_CIS_up,ETS1,dna binding,winged helix-turn-helix,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Immune system,86,ATG_ISRE_CIS_up,IRF1,dna binding,interferon regulatory factors,3420,26,0.8,3394,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,98,ATG_Oct_MLP_CIS_up,POU2F1,dna binding,POU domain protein,3420,556,16.3,2864,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,106,ATG_Sp1_CIS_up,SP1,dna binding,zinc finger,3420,352,10.3,3068,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,120,ATG_FXR_TRANS_up,NR1H4,nuclear receptor,non-steroidal,3420,103,3.0,3317,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,CDCA
+Immune system,85,ATG_IR1_CIS_up,NR1H4,nuclear receptor,non-steroidal,3420,93,2.7,3327,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,104,ATG_RORE_CIS_up,RORA|RORB|RORC,nuclear receptor,orphan,3420,382,11.2,3038,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,140,ATG_RORg_TRANS_up,RORC,nuclear receptor,orphan,3420,36,1.1,3384,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Immune system,753,OT_FXR_FXRSRC1_0480,NR1H4,nuclear receptor,non-steroidal,1741,320,18.4,1421,HEK293T,microplate: 384-well plate,8,binding,Fluorescence,GW4064
+Immune system,754,OT_FXR_FXRSRC1_1440,NR1H4,nuclear receptor,non-steroidal,1688,142,8.4,1546,HEK293T,microplate: 384-well plate,24,binding,Fluorescence,GW4064
+Immune system,716,NVS_NR_hFXR_Antagonist,NR1H4,nuclear receptor,non-steroidal,258,60,23.3,198,cell-free,microplate: 384-well plate,1,binding,Fluorescence,Guggulsterone
+Immune system,715,NVS_NR_hFXR_Agonist,NR1H4,nuclear receptor,non-steroidal,166,33,19.9,133,cell-free,microplate: 384-well plate,1,binding,Fluorescence,CDCA
+Immune system,427,NVS_ENZ_hDUSP3,DUSP3,phosphatase,dual-specific phosphatase,103,60,58.3,43,cell-free,microplate: 96-well plate,0,enzymatic activity,Fluorescence,Ammonium Molybdate (NH4MoO4)
+Immune system,549,NVS_ENZ_hPTPRC,PTPRC,phosphatase,receptor tyrosine phosphatase,67,38,56.7,29,cell-free,microplate: 96-well plate,1,enzymatic activity,Spectrophotometry,Ammonium Molybdate (NH4MoO4)
+Inflammation,793,TOX21_GR_BLA_Agonist_ratio,NR3C1,nuclear receptor,steroidal,7932,500,6.3,7432,HeLa,microplate: 1536-well plate,24,reporter gene,Fluorescence,Dexamethasone
+Inflammation,794,TOX21_GR_BLA_Antagonist_ratio,NR3C1,nuclear receptor,steroidal,7932,456,5.7,7476,HeLa,microplate: 1536-well plate,24,reporter gene,Fluorescence,Mifeprostone
+Inflammation,1346,TOX21_NFkB_BLA_agonist_ratio,NFKB1,dna binding,NF-kappa B,7197,243,3.4,6954,ME-180,microplate: 1536-well plate,24,reporter gene,Fluorescence,TNFa
+Inflammation,1110,TOX21_ARE_BLA_agonist_ratio,NFE2L2,dna binding,basic leucine zipper,7197,1618,22.5,5579,HepG2,microplate: 1536-well plate,24,reporter gene,Fluorescence,Beta-Naphthoflavone
+Inflammation,94,ATG_NF_kB_CIS_up,NFKB1,dna binding,NF-kappa B,3420,22,0.6,3398,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Inflammation,67,ATG_C_EBP_CIS_up,CEBPB,dna binding,basic leucine zipper,3420,391,11.4,3029,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Inflammation,97,ATG_NRF2_ARE_CIS_up,NFE2L2,dna binding,basic leucine zipper,3420,1300,38.0,2120,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Inflammation,108,ATG_STAT3_CIS_up,STAT3,dna binding,stat protein,3420,42,1.2,3378,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Inflammation,112,ATG_TGFb_CIS_up,TGFB1,growth factor,transforming growth factor beta,3420,138,4.0,3282,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Inflammation,126,ATG_LXRb_TRANS_up,NR1H2,nuclear receptor,non-steroidal,3420,77,2.3,3343,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,T9;4-Hydroxynonenal
+Inflammation,125,ATG_LXRa_TRANS_up,NR1H3,nuclear receptor,non-steroidal,3420,104,3.0,3316,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,T9
+Inflammation,70,ATG_DR4_LXR_CIS_up,NR1H3|NR1H2,nuclear receptor,non-steroidal,3420,66,1.9,3354,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Inflammation,122,ATG_GR_TRANS_up,NR3C1,nuclear receptor,steroidal,3420,60,1.8,3360,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Inflammation,81,ATG_GRE_CIS_up,NR3C1,nuclear receptor,steroidal,3420,60,1.8,3360,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,Dexamethasone
+Inflammation,223,BSK_CASM3C_SAA_down,SAA1,cell adhesion molecules,apolipoproteins,1444,178,12.3,1266,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,224,BSK_CASM3C_SAA_up,SAA1,cell adhesion molecules,apolipoproteins,1444,36,2.5,1408,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,145,BSK_3C_Eselectin_down,SELE,cell adhesion molecules,selectins,1444,402,27.8,1042,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,279,BSK_LPS_Eselectin_down,SELE,cell adhesion molecules,selectins,1444,307,21.3,1137,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,280,BSK_LPS_Eselectin_up,SELE,cell adhesion molecules,selectins,1444,22,1.5,1422,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,305,BSK_SAg_Eselectin_down,SELE,cell adhesion molecules,selectins,1444,411,28.5,1033,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,306,BSK_SAg_Eselectin_up,SELE,cell adhesion molecules,selectins,1444,46,3.2,1398,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,175,BSK_4H_Pselectin_down,SELP,cell adhesion molecules,selectins,1444,403,27.9,1041,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,176,BSK_4H_Pselectin_up,SELP,cell adhesion molecules,selectins,1444,22,1.5,1422,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,167,BSK_3C_VCAM1_down,VCAM1,cell adhesion molecules,Immunoglobulin CAM,1444,354,24.5,1090,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,181,BSK_4H_VCAM1_down,VCAM1,cell adhesion molecules,Immunoglobulin CAM,1444,426,29.5,1018,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,233,BSK_CASM3C_VCAM1_down,VCAM1,cell adhesion molecules,Immunoglobulin CAM,1444,285,19.7,1159,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,234,BSK_CASM3C_VCAM1_up,VCAM1,cell adhesion molecules,Immunoglobulin CAM,1444,38,2.6,1406,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,257,BSK_hDFCGF_VCAM1_down,VCAM1,cell adhesion molecules,Immunoglobulin CAM,1444,412,28.5,1032,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,297,BSK_LPS_VCAM1_down,VCAM1,cell adhesion molecules,Immunoglobulin CAM,1444,441,30.5,1003,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,187,BSK_BE3C_IL1a_down,IL1A,cytokine,interleukins,1444,270,18.7,1174,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,261,BSK_KF3CT_IL1a_down,IL1A,cytokine,interleukins,1444,297,20.6,1147,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,281,BSK_LPS_IL1a_down,IL1A,cytokine,interleukins,1444,310,21.5,1134,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,282,BSK_LPS_IL1a_up,IL1A,cytokine,interleukins,1444,22,1.5,1422,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,209,BSK_CASM3C_IL6_down,IL6,cytokine,interleukins,1444,210,14.5,1234,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,210,BSK_CASM3C_IL6_up,IL6,cytokine,interleukins,1444,49,3.4,1395,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,189,BSK_BE3C_IP10_down,CXCL10,cytokine,chemotactic factor,1444,384,26.6,1060,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,241,BSK_hDFCGF_IP10_down,CXCL10,cytokine,chemotactic factor,1444,421,29.2,1023,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,263,BSK_KF3CT_IP10_down,CXCL10,cytokine,chemotactic factor,1444,323,22.4,1121,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,264,BSK_KF3CT_IP10_up,CXCL10,cytokine,chemotactic factor,1444,25,1.7,1419,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,151,BSK_3C_IL8_down,CXCL8,cytokine,interleukins,1444,331,22.9,1113,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,211,BSK_CASM3C_IL8_down,CXCL8,cytokine,interleukins,1444,146,10.1,1298,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,239,BSK_hDFCGF_IL8_down,CXCL8,cytokine,interleukins,1444,193,13.4,1251,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,283,BSK_LPS_IL8_down,CXCL8,cytokine,interleukins,1444,321,22.2,1123,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,284,BSK_LPS_IL8_up,CXCL8,cytokine,interleukins,1444,31,2.1,1413,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,307,BSK_SAg_IL8_down,CXCL8,cytokine,interleukins,1444,349,24.2,1095,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,308,BSK_SAg_IL8_up,CXCL8,cytokine,interleukins,1444,42,2.9,1402,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,295,BSK_LPS_TNFa_down,TNF,cytokine,inflammatory factor,1444,294,20.4,1150,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,296,BSK_LPS_TNFa_up,TNF,cytokine,inflammatory factor,1444,77,5.3,1367,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,153,BSK_3C_MCP1_down,CCL2,cytokine,chemotactic factor,1444,382,26.5,1062,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,173,BSK_4H_MCP1_down,CCL2,cytokine,chemotactic factor,1444,386,26.7,1058,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,215,BSK_CASM3C_MCP1_down,CCL2,cytokine,chemotactic factor,1444,213,14.8,1231,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,216,BSK_CASM3C_MCP1_up,CCL2,cytokine,chemotactic factor,1444,32,2.2,1412,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,265,BSK_KF3CT_MCP1_down,CCL2,cytokine,chemotactic factor,1444,258,17.9,1186,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,266,BSK_KF3CT_MCP1_up,CCL2,cytokine,chemotactic factor,1444,26,1.8,1418,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,285,BSK_LPS_MCP1_down,CCL2,cytokine,chemotactic factor,1444,325,22.5,1119,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,309,BSK_SAg_MCP1_down,CCL2,cytokine,chemotactic factor,1444,348,24.1,1096,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,171,BSK_4H_Eotaxin3_down,CCL26,cytokine,chemotactic factor,1444,438,30.3,1006,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,299,BSK_SAg_CD38_down,CD38,cytokine,other cytokine,1444,444,30.7,1000,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,277,BSK_LPS_CD40_down,CD40,cytokine,inflammatory factor,1444,426,29.5,1018,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,301,BSK_SAg_CD40_down,CD40,cytokine,inflammatory factor,1444,446,30.9,998,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,303,BSK_SAg_CD69_down,CD69,cytokine,inflammatory factor,1444,404,28.0,1040,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,217,BSK_CASM3C_MCSF_down,CSF1,cytokine,colony stimulating factor,1444,265,18.4,1179,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,218,BSK_CASM3C_MCSF_up,CSF1,cytokine,colony stimulating factor,1444,21,1.5,1423,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,243,BSK_hDFCGF_MCSF_down,CSF1,cytokine,colony stimulating factor,1444,417,28.9,1027,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,287,BSK_LPS_MCSF_down,CSF1,cytokine,colony stimulating factor,1444,398,27.6,1046,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,155,BSK_3C_MIG_down,CXCL9,cytokine,chemotactic factor,1444,191,13.2,1253,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,191,BSK_BE3C_MIG_down,CXCL9,cytokine,chemotactic factor,1444,191,13.2,1253,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,219,BSK_CASM3C_MIG_down,CXCL9,cytokine,chemotactic factor,1444,158,10.9,1286,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,245,BSK_hDFCGF_MIG_down,CXCL9,cytokine,chemotactic factor,1444,295,20.4,1149,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,311,BSK_SAg_MIG_down,CXCL9,cytokine,chemotactic factor,1444,233,16.1,1211,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,163,BSK_3C_TissueFactor_down,F3,cytokine,coagulation factor,1444,320,22.2,1124,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,164,BSK_3C_TissueFactor_up,F3,cytokine,coagulation factor,1444,60,4.2,1384,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,229,BSK_CASM3C_TissueFactor_down,F3,cytokine,coagulation factor,1444,222,15.4,1222,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,293,BSK_LPS_TissueFactor_down,F3,cytokine,coagulation factor,1444,237,16.4,1207,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,294,BSK_LPS_TissueFactor_up,F3,cytokine,coagulation factor,1444,55,3.8,1389,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,165,BSK_3C_uPAR_down,PLAUR,cytokine,plasmogen activator,1444,419,29.0,1025,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,179,BSK_4H_uPAR_down,PLAUR,cytokine,plasmogen activator,1444,347,24.0,1097,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,180,BSK_4H_uPAR_up,PLAUR,cytokine,plasmogen activator,1444,20,1.4,1424,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,205,BSK_BE3C_uPAR_down,PLAUR,cytokine,plasmogen activator,1444,240,16.6,1204,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,206,BSK_BE3C_uPAR_up,PLAUR,cytokine,plasmogen activator,1444,240,16.6,1204,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,231,BSK_CASM3C_uPAR_down,PLAUR,cytokine,plasmogen activator,1444,248,17.2,1196,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,232,BSK_CASM3C_uPAR_up,PLAUR,cytokine,plasmogen activator,1444,23,1.6,1421,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,195,BSK_BE3C_PAI1_down,SERPINE1,cytokine,plasmogen activator inhibitor,1444,294,20.4,1150,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,249,BSK_hDFCGF_PAI1_down,SERPINE1,cytokine,plasmogen activator inhibitor,1444,395,27.4,1049,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,199,BSK_BE3C_TGFb1_down,TGFB1,growth factor,transforming growth factor beta,1444,229,15.9,1215,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,271,BSK_KF3CT_TGFb1_down,TGFB1,growth factor,transforming growth factor beta,1444,293,20.3,1151,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Inflammation,717,NVS_NR_hGR,NR3C1,nuclear receptor,steroidal,345,225,65.2,120,cell-free,microplate: 96-well plate,16,binding,Radiometry,Triamcinolone acetonide
+Inflammation,431,NVS_ENZ_hElastase,ELANE,protease,serine protease,113,54,47.8,59,cell-free,microplate: 96-well plate,1.5,enzymatic activity,Spectrophotometry,Ursolic acid
+Inflammation,727,NVS_NR_rMR,Nr3c2,nuclear receptor,steroidal,98,21,21.4,77,tissue-based cell-free,microplate: 96-well plate,24,binding,Radiometry,Spironolactone
+Inflammation,409,NVS_ENZ_hCASP5,CASP5,protease,cysteine protease,78,36,46.2,42,cell-free,microplate: 96-well plate,2,enzymatic activity,Fluorescence,Ac-LEHD-CHO
+Metabolism,82,ATG_HIF1a_CIS_up,HIF1A,dna binding,basic helix-loop-helix protein,3420,386,11.3,3034,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,111,ATG_TCF_b_cat_CIS_up,LEF1|TCF7|TCF7L1|TCF7L2,dna binding,HMG box protein,3420,41,1.2,3379,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,91,ATG_MRE_CIS_up,MTF1,dna binding,zinc finger,3420,22,0.6,3398,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,96,ATG_NRF1_CIS_up,NRF1,dna binding,nuclear respiratory factors,3420,104,3.0,3316,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,83,ATG_HNF6_CIS_up,ONECUT1,dna binding,homeobox protein,3420,67,2.0,3353,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,107,ATG_SREBP_CIS_up,SREBF1,dna binding,basic helix-loop-helix leucine zipper,3420,536,15.7,2884,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,72,ATG_E_Box_CIS_up,USF1,dna binding,basic helix-loop-helix protein,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Metabolism,135,ATG_PXR_TRANS_up,NR1I2,nuclear receptor,non-steroidal,3420,978,28.6,2442,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Metabolism,103,ATG_PXRE_CIS_up,NR1I2,nuclear receptor,non-steroidal,3420,978,28.6,2442,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,Rifampicin
+Metabolism,116,ATG_CAR_TRANS_up,NR1I3,nuclear receptor,non-steroidal,3420,37,1.1,3383,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Metabolism,101,ATG_PBREM_CIS_up,NR1I3,nuclear receptor,non-steroidal,3420,397,11.6,3023,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Metabolism,213,BSK_CASM3C_LDLR_down,LDLR,misc protein,LDL receptor,1444,164,11.4,1280,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Metabolism,214,BSK_CASM3C_LDLR_up,LDLR,misc protein,LDL receptor,1444,84,5.8,1360,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Metabolism,721,NVS_NR_hPXR,NR1I2,nuclear receptor,non-steroidal,515,110,21.4,405,cell-free,microplate: 384-well plate,2,binding,Fluorescence,TO901317
+Metabolism,1508,NCCT_TPO_AUR_dn,Tpo,oxidoreductase,peroxidase,374,308,82.4,66,tissue-based cell-free,microplate: 384-well plate,0.5,binding,Fluorescence,methimazole (MMI)
+Metabolism,713,NVS_NR_hCAR_Antagonist,NR1I3,nuclear receptor,non-steroidal,277,83,30.0,194,cell-free,microplate: 384-well plate,1,binding,Fluorescence,Clotrimazole
+Metabolism,391,NVS_ENZ_hAMPKa1,PRKAA1,kinase,serine/threonine kinase,111,21,18.9,90,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Staurosporine
+Metabolism,1824,NCCT_TPO_GUA_dn,TPO,oxidoreductase,peroxidase,53,31,58.5,22,tissue-based cell-free,microplate: 384-well plate,0.5,binding,Spectrophotometry,NA
+Neuro,803,TOX21_TR_LUC_GH3_Agonist,THRB|THRA,nuclear receptor,non-steroidal,7932,38,0.5,7894,GH3,microplate: 1536-well plate,28,reporter gene,Luminescence,20mM T3
+Neuro,804,TOX21_TR_LUC_GH3_Antagonist,THRB|THRA,nuclear receptor,non-steroidal,7932,1759,22.2,6173,GH3,microplate: 1536-well plate,28,reporter gene,Luminescence,0.001mM T3
+Neuro,74,ATG_EGR_CIS_up,EGR1,dna binding,zinc finger,3420,83,2.4,3337,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Neuro,64,ATG_AP_1_CIS_up,JUN|FOS,dna binding,basic leucine zipper,3420,627,18.3,2793,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Neuro,95,ATG_NFI_CIS_up,NFIA,dna binding,nuclear factor I,3420,277,8.1,3143,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Neuro,100,ATG_Pax6_CIS_up,PAX6,dna binding,paired box protein,3420,460,13.5,2960,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Neuro,131,ATG_NURR1_TRANS_up,NR4A2,nuclear receptor,orphan,3420,215,6.3,3205,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Neuro,141,ATG_RXRa_TRANS_up,RXRA,nuclear receptor,non-steroidal,3420,109,3.2,3311,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Neuro,142,ATG_RXRb_TRANS_up,RXRB,nuclear receptor,non-steroidal,3420,530,15.5,2890,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,NA
+Neuro,143,ATG_THRa1_TRANS_up,THRA,nuclear receptor,non-steroidal,3420,112,3.3,3308,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,4-Hydroxynonenal
+Neuro,755,OT_NURR1_NURR1RXRa_0480,RXRA,nuclear receptor,non-steroidal,1764,206,11.7,1558,HEK293T,microplate: 384-well plate,8,binding,Fluorescence,Isoproterenol;Fenoterol
+Neuro,756,OT_NURR1_NURR1RXRa_1440,RXRA,nuclear receptor,non-steroidal,1743,88,5.0,1655,HEK293T,microplate: 384-well plate,24,binding,Fluorescence,Isoproterenol;Fenoterol
+Neuro,147,BSK_3C_HLADR_down,HLA-DRA,cell adhesion molecules,MHC Class II,1444,555,38.4,889,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,185,BSK_BE3C_HLADR_down,HLA-DRA,cell adhesion molecules,MHC Class II,1444,388,26.9,1056,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,207,BSK_CASM3C_HLADR_down,HLA-DRA,cell adhesion molecules,MHC Class II,1444,290,20.1,1154,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,149,BSK_3C_ICAM1_down,ICAM1,cell adhesion molecules,Immunoglobulin CAM,1444,205,14.2,1239,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,259,BSK_KF3CT_ICAM1_down,ICAM1,cell adhesion molecules,Immunoglobulin CAM,1444,226,15.7,1218,keratinocytes and foreskin fibroblasts,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,289,BSK_LPS_PGE2_down,PTGER2,gpcr,rhodopsin-like receptor,1444,299,20.7,1145,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,290,BSK_LPS_PGE2_up,PTGER2,gpcr,rhodopsin-like receptor,1444,96,6.6,1348,umbilical vein endothelium and peripheral blood mononuclear cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,161,BSK_3C_Thrombomodulin_down,THBD,gpcr,rhodopsin-like receptor,1444,62,4.3,1382,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,162,BSK_3C_Thrombomodulin_up,THBD,gpcr,rhodopsin-like receptor,1444,139,9.6,1305,umbilical vein endothelium,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,227,BSK_CASM3C_Thrombomodulin_down,THBD,gpcr,rhodopsin-like receptor,1444,74,5.1,1370,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,228,BSK_CASM3C_Thrombomodulin_up,THBD,gpcr,rhodopsin-like receptor,1444,254,17.6,1190,coronary artery smooth muscle cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,237,BSK_hDFCGF_EGFR_down,EGFR,kinase,receptor tyrosine kinase,1444,98,6.8,1346,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,238,BSK_hDFCGF_EGFR_up,EGFR,kinase,receptor tyrosine kinase,1444,63,4.4,1381,foreskin fibroblast,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,201,BSK_BE3C_tPA_down,PLAT,protease,serine protease,1444,246,17.0,1198,bronchial epithelial cells,microplate: 96-well plate,24,signaling,Fluorescence,colchicine
+Neuro,683,NVS_GPCR_rTRH,Trhr,gpcr,rhodopsin-like receptor,944,30,3.2,914,tissue-based cell-free,microplate: 48-well plate,4,binding,Radiometry,TRH
+Neuro,706,NVS_MP_hPBR,TSPO,transporter,cholesterol transporter,349,216,61.9,133,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,PK11195
+Neuro,707,NVS_MP_rPBR,Tspo,transporter,cholesterol transporter,333,217,65.2,116,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,PK11195
+Neuro,720,NVS_NR_hPR,PGR,nuclear receptor,steroidal,282,86,30.5,196,cell-free,microplate: 96-well plate,18,binding,Radiometry,Promegestone
+Neuro,732,NVS_TR_hDAT,SLC6A3,transporter,neurotransmitter transporter,245,195,79.6,50,cell-free,microplate: 96-well plate,1,binding,Radiometry,GBR-12909
+Neuro,733,NVS_TR_hNET,SLC6A2,transporter,neurotransmitter transporter,230,161,70.0,69,cell-free,microplate: 96-well plate,1,binding,Radiometry,Desipramine
+Neuro,724,NVS_NR_hTRa_Antagonist,THRA,nuclear receptor,non-steroidal,222,55,24.8,167,cell-free,microplate: 384-well plate,1,binding,Luminescence,Bisphenol A
+Neuro,449,NVS_ENZ_hGSK3b,GSK3B,kinase,serine/threonine kinase,219,23,10.5,196,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Staurosporine
+Neuro,652,NVS_GPCR_hOpiate_mu,OPRM1,gpcr,rhodopsin-like receptor,189,114,60.3,75,cell-free,microplate: 96-well plate,2.5,binding,Radiometry,Naloxone HCl
+Neuro,511,NVS_ENZ_hPDE5,PDE5A,esterase,phosphodiesterase,181,68,37.6,113,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Dipyridamole
+Neuro,395,NVS_ENZ_hBACE,BACE1,protease,aspartate protease,169,89,52.7,80,cell-free,microplate: 96-well plate,1,enzymatic activity,Fluorescence,OM99-02
+Neuro,647,NVS_GPCR_hNK2,TACR2,gpcr,rhodopsin-like receptor,165,80,48.5,85,cell-free,microplate: 96-well plate,4,binding,Radiometry,Neurokinin A
+Neuro,441,NVS_ENZ_hES,BCHE,esterase,pseudocholinesterase,163,82,50.3,81,cell-free,microplate: 96-well plate,0.25,enzymatic activity,Spectrophotometry,physostigmine
+Neuro,625,NVS_GPCR_h5HT7,HTR7,gpcr,rhodopsin-like receptor,160,120,75.0,40,cell-free,microplate: 96-well plate,1,binding,Radiometry,5-carboxamidotryptamine
+Neuro,693,NVS_IC_rNaCh_site2,Scn1a,ion channel,sodium channel,158,117,74.1,41,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Aconitine
+Neuro,623,NVS_GPCR_h5HT5A,HTR5A,gpcr,rhodopsin-like receptor,155,89,57.4,66,cell-free,microplate: 96-well plate,1,binding,Radiometry,Methiothepin mesylate
+Neuro,381,NVS_ENZ_hAChE,ACHE,esterase,acetylcholinesterase,141,67,47.5,74,cell-free,microplate: 96-well plate,0.33,enzymatic activity,Spectrophotometry,physostigmine
+Neuro,509,NVS_ENZ_hPDE4A1,PDE4A,esterase,phosphodiesterase,138,58,42.0,80,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,trequinsin
+Neuro,607,NVS_ENZ_rMAOBP,Maob,oxidoreductase,monoamine oxidase,132,56,42.4,76,tissue-based cell-free,microplate: 96-well plate,1.17,enzymatic activity,Radiometry,Ro 16-6491
+Neuro,645,NVS_GPCR_hM4,CHRM4,gpcr,rhodopsin-like receptor,130,81,62.3,49,cell-free,microplate: 96-well plate,1,binding,Radiometry,Methylscopolamine bromide
+Neuro,635,NVS_GPCR_hDRD1,DRD1,gpcr,rhodopsin-like receptor,129,98,76.0,31,cell-free,microplate: 96-well plate,1,binding,Radiometry,R(+)-SCH 23390
+Neuro,679,NVS_GPCR_rOpiate_NonSelective,Oprm1,gpcr,rhodopsin-like receptor,129,72,55.8,57,tissue-based cell-free,microplate: 48-well plate,1.5,binding,Radiometry,Naloxone HCl
+Neuro,605,NVS_ENZ_rMAOBC,Maob,oxidoreductase,monoamine oxidase,129,72,55.8,57,tissue-based cell-free,microplate: 96-well plate,1.17,enzymatic activity,Radiometry,Ro 16-6491
+Neuro,636,NVS_GPCR_hDRD2s,DRD2,gpcr,rhodopsin-like receptor,125,72,57.6,53,cell-free,microplate: 96-well plate,1.5,binding,Radiometry,Haloperidol
+Neuro,680,NVS_GPCR_rOpiate_NonSelectiveNa,Oprm1,gpcr,rhodopsin-like receptor,122,65,53.3,57,tissue-based cell-free,microplate: 48-well plate,1.5,binding,Radiometry,Naloxone HCl
+Neuro,626,NVS_GPCR_hAdoRA1,ADORA1,gpcr,rhodopsin-like receptor,118,84,71.2,34,tissue-based cell-free,microplate: 96-well plate,1,binding,Radiometry,2-chloroadenosine
+Neuro,643,NVS_GPCR_hM2,CHRM2,gpcr,rhodopsin-like receptor,118,75,63.6,43,cell-free,microplate: 96-well plate,1,binding,Radiometry,Methylscopolamine bromide
+Neuro,601,NVS_ENZ_rMAOAC,Maoa,oxidoreductase,monoamine oxidase,115,84,73.0,31,tissue-based cell-free,microplate: 96-well plate,1.5,enzymatic activity,Radiometry,Ro 41-1049;Tetrindole mesylate
+Neuro,737,NVS_TR_rSERT,Slc6a4,transporter,neurotransmitter transporter,114,62,54.4,52,tissue-based cell-free,microplate: 96-well plate,1,binding,Radiometry,Imipramine HCl
+Neuro,609,NVS_GPCR_bAdoR_NonSelective,ADORA1,gpcr,rhodopsin-like receptor,112,38,33.9,74,tissue-based cell-free,microplate: 96-well plate,1,binding,Radiometry,5'-N-ethylcarboxamidoadenosine (NECA)
+Neuro,676,NVS_GPCR_rNK1,Tacr1,gpcr,rhodopsin-like receptor,112,46,41.1,66,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Substance P
+Neuro,629,NVS_GPCR_hAdra2C,ADRA2C,gpcr,rhodopsin-like receptor,111,80,72.1,31,cell-free,microplate: 96-well plate,1,binding,Radiometry,Oxymetazoline HCl
+Neuro,659,NVS_GPCR_p5HT2C,HTR2C,gpcr,rhodopsin-like receptor,111,70,63.1,41,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Mianserin HCl
+Neuro,622,NVS_GPCR_h5HT2A,HTR2A,gpcr,rhodopsin-like receptor,110,47,42.7,63,tissue-based cell-free,microplate: 48-well plate,1.5,binding,Radiometry,Ketanserin
+Neuro,545,NVS_ENZ_hPTPN9,PTPN9,phosphatase,non-receptor tyrosine phosphatase,108,32,29.6,76,cell-free,microplate: 384-well plate,1.33,enzymatic activity,Fluorescence,Ammonium Molybdate (NH4MoO4)
+Neuro,651,NVS_GPCR_hOpiate_D1,OPRD1,gpcr,rhodopsin-like receptor,107,60,56.1,47,cell-free,microplate: 96-well plate,1,binding,Radiometry,Naltriben methanesulfonate
+Neuro,603,NVS_ENZ_rMAOAP,Maoa,oxidoreductase,monoamine oxidase,106,64,60.4,42,tissue-based cell-free,microplate: 96-well plate,1.17,enzymatic activity,Radiometry,Ro 41-1049;Tetrindole mesylate
+Neuro,734,NVS_TR_hSERT,SLC6A4,transporter,neurotransmitter transporter,104,40,38.5,64,tissue-based cell-free,microplate: 96-well plate,1,binding,Radiometry,Imipramine HCl;Clomipramine HCl
+Neuro,673,NVS_GPCR_rmAdra2B,Adra2b,gpcr,rhodopsin-like receptor,103,77,74.8,26,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Oxymetazoline HCl;Norepinephrine
+Neuro,644,NVS_GPCR_hM3,CHRM3,gpcr,rhodopsin-like receptor,102,70,68.6,32,cell-free,microplate: 96-well plate,1,binding,Radiometry,Methylscopolamine bromide
+Neuro,738,NVS_TR_rVMAT2,Slc18a2,transporter,vesicular transporter,102,50,49.0,52,tissue-based cell-free,microplate: 96-well plate,1,binding,Radiometry,Reserpine
+Neuro,624,NVS_GPCR_h5HT6,HTR6,gpcr,rhodopsin-like receptor,100,65,65.0,35,cell-free,microplate: 96-well plate,1,binding,Radiometry,Methiothepin mesylate
+Neuro,527,NVS_ENZ_hPTEN,PTEN,phosphatase,dual-specific phosphatase,96,31,32.3,65,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,bpV (bipy)
+Neuro,630,NVS_GPCR_hAdrb1,ADRB1,gpcr,rhodopsin-like receptor,95,57,60.0,38,cell-free,microplate: 96-well plate,2,binding,Radiometry,Alprenolol HCl
+Neuro,655,NVS_GPCR_hTXA2,TBXA2R,gpcr,rhodopsin-like receptor,95,60,63.2,35,cell-free,microplate: 96-well plate,1,binding,Radiometry,Pinane-thromboxane A2
+Neuro,595,NVS_ENZ_rCNOS,Nos1,oxidoreductase,nitric oxide synthase,95,39,41.1,56,tissue-based cell-free,microplate: 96-well plate,1,enzymatic activity,Radiometry,Nitro-L-Arginine
+Neuro,663,NVS_GPCR_rAdra1_NonSelective,Adra1a,gpcr,rhodopsin-like receptor,93,53,57.0,40,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Phentolamine mesylate
+Neuro,665,NVS_GPCR_rAdra1B,Adra1b,gpcr,rhodopsin-like receptor,93,53,57.0,40,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Phentolamine mesylate
+Neuro,660,NVS_GPCR_r5HT_NonSelective,Htr1a,gpcr,rhodopsin-like receptor,92,48,52.2,44,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Methysergide maleate
+Neuro,661,NVS_GPCR_r5HT1_NonSelective,Htr1a,gpcr,rhodopsin-like receptor,92,48,52.2,44,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Serotonin
+Neuro,628,NVS_GPCR_hAdra2A,ADRA2A,gpcr,rhodopsin-like receptor,91,61,67.0,30,cell-free,microplate: 48-well plate,1,binding,Radiometry,Oxymetazoline HCl
+Neuro,640,NVS_GPCR_hH1,HRH1,gpcr,rhodopsin-like receptor,90,57,63.3,33,cell-free,microplate: 96-well plate,1,binding,Radiometry,Tripolidine
+Neuro,531,NVS_ENZ_hPTPN11,PTPN11,phosphatase,non-receptor tyrosine phosphatase,87,24,27.6,63,cell-free,microplate: 384-well plate,0.5,enzymatic activity,Fluorescence,Ammonium Molybdate (NH4MoO4)
+Neuro,627,NVS_GPCR_hAdoRA2a,ADORA2A,gpcr,rhodopsin-like receptor,86,66,76.7,20,cell-free,microplate: 96-well plate,1.5,binding,Radiometry,5'-N-ethylcarboxamidoadenosine (NECA)
+Neuro,632,NVS_GPCR_hAdrb3,ADRB3,gpcr,rhodopsin-like receptor,86,25,29.1,61,cell-free,microplate: 48-well plate,1,binding,Radiometry,Propranolol HCl
+Neuro,677,NVS_GPCR_rNK3,Tacr3,gpcr,rhodopsin-like receptor,85,28,32.9,57,tissue-based cell-free,microplate: 48-well plate,2,binding,Radiometry,Eledoisin
+Neuro,705,NVS_LGIC_rNNR_BungSens,Chrna7,ion channel,ligand-gated ion channel,85,31,36.5,54,tissue-based cell-free,microplate: 48-well plate,2.5,binding,Radiometry,Methyllycaconitine
+Neuro,642,NVS_GPCR_hM1,CHRM1,gpcr,rhodopsin-like receptor,83,57,68.7,26,cell-free,microplate: 96-well plate,1,binding,Radiometry,Methylscopolamine bromide
+Neuro,507,NVS_ENZ_hPDE10,PDE10A,esterase,phosphodiesterase,79,26,32.9,53,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,trequinsin
+Neuro,533,NVS_ENZ_hPTPN12,PTPN12,phosphatase,non-receptor tyrosine phosphatase,79,25,31.6,54,cell-free,microplate: 384-well plate,1.33,enzymatic activity,Fluorescence,Ammonium Molybdate (NH4MoO4)
+Neuro,666,NVS_GPCR_rAdra2_NonSelective,Adra2a,gpcr,rhodopsin-like receptor,78,53,67.9,25,tissue-based cell-free,microplate: 48-well plate,1.25,binding,Radiometry,Phentolamine mesylate
+Neuro,631,NVS_GPCR_hAdrb2,ADRB2,gpcr,rhodopsin-like receptor,78,40,51.3,38,cell-free,microplate: 96-well plate,1,binding,Radiometry,Alprenolol HCl
+Neuro,637,NVS_GPCR_hDRD4.4,DRD4,gpcr,rhodopsin-like receptor,78,57,73.1,21,cell-free,microplate: 96-well plate,1,binding,Radiometry,Haloperidol
+Neuro,736,NVS_TR_rNET,Slc6a2,transporter,neurotransmitter transporter,78,39,50.0,39,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Desipramine
+Neuro,731,NVS_TR_hAdoT,SLC29A1,transporter,nucleoside transporter,76,50,65.8,26,cell-free,microplate: 96-well plate,1,binding,Radiometry,Nitrobenzylthioinosine (NBTI)
+Neuro,535,NVS_ENZ_hPTPN13,PTPN13,phosphatase,non-receptor tyrosine phosphatase,75,24,32.0,51,cell-free,microplate: 384-well plate,0.5,enzymatic activity,Fluorescence,Ammonium Molybdate (NH4MoO4)
+Neuro,682,NVS_GPCR_rSST,Sstr1,gpcr,rhodopsin-like receptor,73,36,49.3,37,tissue-based cell-free,microplate: 96-well plate,1,binding,Radiometry,Somatostatin
+Neuro,641,NVS_GPCR_hLTB4_BLT1,LTB4R,gpcr,rhodopsin-like receptor,71,22,31.0,49,cell-free,microplate: 48-well plate,1,binding,Radiometry,Leukotriene B4 (LTB4)
+Neuro,633,NVS_GPCR_hAT1,AGTR1,gpcr,rhodopsin-like receptor,67,21,31.3,46,tissue-based cell-free,microplate: 48-well plate,3,binding,Radiometry,Angiotensin II
+Neuro,695,NVS_LGIC_bGABARa1,GABRA1,ion channel,ligand-gated ion channel,67,25,37.3,42,tissue-based cell-free,microplate: 48-well plate,0.75,binding,Radiometry,Ro 15-1788 (Flumazenil)
+Neuro,697,NVS_LGIC_h5HT3,HTR3A,ion channel,ligand-gated ion channel,66,23,34.8,43,cell-free,microplate: 96-well plate,1,binding,Radiometry,MDL-72222
+Neuro,667,NVS_GPCR_rAdrb_NonSelective,Adrb1,gpcr,rhodopsin-like receptor,65,23,35.4,42,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Alprenolol HCl
+Neuro,573,NVS_ENZ_hTrkA,NTRK1,kinase,receptor tyrosine kinase,63,21,33.3,42,cell-free,microplate: 384-well plate,1,enzymatic activity,Fluorescence,Staurosporine
+Neuro,700,NVS_LGIC_rGABAR_NonSelective,Gabra1,ion channel,ligand-gated ion channel,62,25,40.3,37,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,GABA
+Neuro,611,NVS_GPCR_bDR_NonSelective,DRD1,gpcr,rhodopsin-like receptor,56,32,57.1,24,tissue-based cell-free,microplate: 48-well plate,1,binding,Radiometry,Spiperone HCl
+Neuro,684,NVS_GPCR_rV1,Avpr1a,gpcr,rhodopsin-like receptor,55,30,54.5,25,tissue-based cell-free,microplate: 48-well plate,1.5,binding,Radiometry,"(Phenyl[1]ac, D-Tyr(Me)[2],Arg[6,8],Lys-NH2[9])-vasopressin;Arg8-Vasopressin (AVP)"
+Neuro,698,NVS_LGIC_hNNR_NBungSens,CHRNA2,ion channel,ligand-gated ion channel,50,26,52.0,24,tissue-based cell-free,microplate: 48-well plate,2,binding,Radiometry,(+/-)-Epibatidine
+PPAR,802,TOX21_PPARg_BLA_Agonist_ratio,PPARG,nuclear receptor,non-steroidal,7932,352,4.4,7580,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,Rosiglitazone
+PPAR,1124,TOX21_PPARd_BLA_agonist_ratio,PPARD,nuclear receptor,non-steroidal,7197,193,2.7,7004,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,"L-165,041"
+PPAR,1125,TOX21_PPARd_BLA_antagonist_ratio,PPARD,nuclear receptor,non-steroidal,7197,443,6.2,6754,HEK293T,microplate: 1536-well plate,24,reporter gene,Fluorescence,MK886
+PPAR,1127,TOX21_PPARg_BLA_antagonist_ratio,PPARG,nuclear receptor,non-steroidal,7197,549,7.6,6648,HEK293,microplate: 1536-well plate,24,reporter gene,Fluorescence,GW9662
+PPAR,132,ATG_PPARa_TRANS_up,PPARA,nuclear receptor,non-steroidal,3420,239,7.0,3181,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,GW7647
+PPAR,102,ATG_PPRE_CIS_up,PPARA|PPARD|PPARG,nuclear receptor,non-steroidal,3420,536,15.7,2884,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,Rosiglitazone
+PPAR,133,ATG_PPARd_TRANS_up,PPARD,nuclear receptor,non-steroidal,3420,72,2.1,3348,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,GW7647
+PPAR,134,ATG_PPARg_TRANS_up,PPARG,nuclear receptor,non-steroidal,3420,939,27.5,2481,HepG2,microplate: 24-well plate,24,reporter gene,Fluorescence,GW7647
+PPAR,719,NVS_NR_hPPARg,PPARG,nuclear receptor,non-steroidal,782,180,23.0,602,cell-free,microplate: 384-well plate,2,binding,Fluorescence,Ciglitazone
+PPAR,718,NVS_NR_hPPARa,PPARA,nuclear receptor,non-steroidal,375,72,19.2,303,cell-free,microplate: 384-well plate,1,binding,Fluorescence,GW7647
