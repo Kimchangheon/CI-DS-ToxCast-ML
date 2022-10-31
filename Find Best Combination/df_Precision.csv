@@ -1,0 +1,7 @@
+,MACCS,Morgan,Rdkit,Layerd,Pattern
+MLP,0,0,0,0,1
+GBT,0,0,1,2,1
+RF,6,16,0,2,1
+LR,0,0,0,0,0
+KNN,0,0,0,0,0
+NB,0,0,1,0,0

@@ -1,0 +1,2 @@
+,Inside,AUC_ROC,AUC_PR,F1,B_A,Precision,Recall,Specificity,TP,TN,FP,FN,Outside,AUC_ROC_o,AUC_PR_o,F1_o,B_A_o,Precision_o,Recall_o,Specificity_o,TP_o,TN_o,FP_o,FN_o
+TOX21_PPARd_BLA_agonist_ratio,714,0.9910923581809659,0.4589752567693744,0.5,0.6666666666666666,1.0,0.3333333333333333,1.0,1,711,0,2,20,0,0,0,0.5,0,0,1.0,0,20,0,0

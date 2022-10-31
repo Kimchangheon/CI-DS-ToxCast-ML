@@ -1,0 +1,2 @@
+,Inside,AUC_ROC,AUC_PR,F1,B_A,Precision,Recall,Specificity,TP,TN,FP,FN,Outside,AUC_ROC_o,AUC_PR_o,F1_o,B_A_o,Precision_o,Recall_o,Specificity_o,TP_o,TN_o,FP_o,FN_o
+TOX21_FXR_BLA_agonist_ratio,696,0.9697406340057636,0.04238866396761134,0,0.4978386167146974,0.0,0.0,0.9956772334293948,0,691,3,2,40,0,0,0,0.5,0,0,1.0,0,40,0,0
